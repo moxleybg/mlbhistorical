@@ -13,7 +13,7 @@
 ### Analysis of Subplot Data
 - Looking at these figures, we can see that home runs and strikeouts went up for hitters while innings pitched, complete games, and shutouts went down for pitchers. 
 - These are interesting stats because we can also see that runs scored did not change by much. 
-- This means that the game is changing in terms of the product we see on the field. However the results are not changing. Pitchers and hitters have been in a battle for over 140 years, but they have always found a way to respond to the adjustments the other side is making. 
+- This means that the game is changing in terms of the product we see on the field. Less balls are being put in play which leads to less defensive plays being made. This has been one of the main compaints made by baseball purists. They argue that the game is worse because of the increase in strikeouts. Analytics people will be quick to point out that runs have been constant and therefore, the game hasn't been made worse. I can see it from both sides. Pitchers and hitters have been in a battle for over 140 years, but they have always found a way to respond to the adjustments the other side is making. This is how runs have remained relatively contstant. I would tend to agree with the purists that the game is less visually appealing because less balls are being put in play.   
 ### Tableau Visualization
 I used Tableau to create this graph that combines the previous subplots.
 ![New Chart](Images/tbl.png)
