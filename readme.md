@@ -17,5 +17,5 @@
 - These are interesting stats because we can also see that runs scored did not change by much. 
 - This means that the game is changing in terms of the product we see on the field. Less balls are being put in play which leads to less defensive plays being made. This has been one of the main compaints made by baseball purists. They argue that the game is worse because of the increase in strikeouts. Analytics people will be quick to point out that runs have been constant and home runs increasing makes the game more exciting, therefore; the game hasn't been made worse. I can see it from both sides. Pitchers and hitters have been in a battle for over 140 years, but they have always found a way to respond to the adjustments the other side is making. This is how runs have remained relatively contstant. I would tend to agree with the purists that the game is less visually appealing because less balls are being put in play.   
 ### Tableau Visualization
-I used Tableau to create this graph that combines the previous subplots.
+I used Tableau to create this graph that combines the previous subplots. As e can see, home runs and strikeouts are on the rise while pitchers are throing less innings each year. I'll point out that another argument against the way the game is trending is the increase in pitching changes throughout a game. 
 ![New Chart](Images/tbl.png)
