@@ -6,4 +6,4 @@
 4. I wrote each of these shrunken versions of the original csv files into new csv's call hit_sub and pitch_sub in order to start plotting. 
 5. After failing to create a histogram, I realized that I could make subplots that ould serve perfectly for presenting the time data for both pitching and hitting. 
 
-![Hitting](Images/hit_sub.png)
+![Hitting](Images/hitting.png)
