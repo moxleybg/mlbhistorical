@@ -6,7 +6,7 @@
 4. I wrote each of these shrunken versions of the original csv files into new csv's call hit_sub and pitch_sub in order to start plotting. 
 5. After failing to create a histogram, I realized that I could make subplots that ould serve perfectly for presenting the time data for both pitching and hitting. 
 6. Below are my subplots to display the change in hitting and pitching statistics. The order of these stats are correct in the title of each graph.
-
+## Hitting
 ![Hitting](Images/hitting.png)
-
+## Pitching
 ![Pitching](Images/pitching.png)
