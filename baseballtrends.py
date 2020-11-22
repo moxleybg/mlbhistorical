@@ -110,7 +110,9 @@ pitch_sub = pd.read_csv('pitch_sub.csv')
 combo = hit_sub.merge(pitch_sub, on='yearID')
 combo.describe()
 
-
+pitch_sub2 = all_pitching[['yearID','IPouts','CG','SHO']]
+combo2 = hit_sub.merge(pitch_sub2, on='yearID')
+combo2.reset_index().to_csv('hit_pitch_combo2.csv')
 
 
 

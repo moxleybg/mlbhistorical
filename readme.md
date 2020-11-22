@@ -11,6 +11,9 @@
 ## Pitching
 ![Pitching](Images/pitching.png)
 ### Analysis of Subplot Data
-- Looking at these figures, we can see that home runs an strikeouts ent up for hitters while innings pitched, complete games, and shutouts went down for pitchers. 
+- Looking at these figures, we can see that home runs and strikeouts went up for hitters while innings pitched, complete games, and shutouts went down for pitchers. 
 - These are interesting stats because we can also see that runs scored did not change by much. 
-- This means that the game is changing in terms of the product we see on the field. However the results are not changing. Pitchers and hitters have been in a battle for over 140 years, but they have alays found a way to respond to the adustments the other side is making. 
+- This means that the game is changing in terms of the product we see on the field. However the results are not changing. Pitchers and hitters have been in a battle for over 140 years, but they have always found a way to respond to the adjustments the other side is making. 
+### Tableau Visualization
+I used Tableau to create this graph that combines the previous subplots.
+![New Chart](Images/tbl.png)
