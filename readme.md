@@ -1,7 +1,7 @@
 # Analyzing Historical MLB Trends
 
-1. When I first downloaded Sean Lahman's historical baseball data I wasn't exactly sure what was looking for. So I created a way to search the data for interesting statistics. I printed out some lists and found that most of the records I searched either occurred before 1900, or in recent history. This led me toward analying how the game has changed since the 1800s and what that means for todays' game. 
- 1. ![Search](Images/search.png)
+1. When I first downloaded Sean Lahman's historical baseball data I wasn't exactly sure what I was looking for. So I created a way to search the data for interesting statistics. I printed out some lists and found that most of the records I searched either occurred before 1900, or in recent history. This led me toward analyzing how the game has changed since the 1800s and what that means for todays' game. 
+ 1a. ![Search](Images/search.png)
 2. I decided that the easiest way to move forward with my analyzation was to import pandas to work with the data. This was a unique challenge because I had never used Pandas before. I also imported matplotlib in order to make some plot later on which is something I wasnted to learn how to do.  
 3. After playing with data.head() for a while to get familiar with indexing in pandas, I chose three statistics associated with hitting, and three with pitching, and used yearID as the common column. 
  3a. ![New Chart](Images/sub_heads.png)
